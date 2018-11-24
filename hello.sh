@@ -1,4 +1,3 @@
-echo "hello"
+#!/bin/bash
 echo "hello world"
-echo "hello world again"
-echo "new"
+echo "test"
